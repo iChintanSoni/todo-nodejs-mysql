@@ -1,0 +1,30 @@
+{
+  "name": "todo-nodejs-mysql",
+  "version": "1.0.0",
+  "description": "This project demonstrates how to create a Restful Web Service using Node.js and MySQL",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mysql": "^2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {"start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chintansoni202/todo-nodejs-mysql.git"
+  },
+  "keywords": [
+    "Node.js",
+    "MySQL",
+    "Restful",
+    "WebServices"
+  ],
+  "author": "Chintan Soni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chintansoni202/todo-nodejs-mysql/issues"
+  },
+  "homepage": "https://github.com/chintansoni202/todo-nodejs-mysql#readme"
+}
